@@ -1,11 +1,14 @@
 _repo: Little-Sister-Snow_5960
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Kataoka, Genjiro
     birthdate: 1867
     gutenberg_agent_id: '38503'
     url: http://www.gutenberg.org/2009/agents/38503
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Little, Frances
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1901
     wikipedia: http://en.wikipedia.org/wiki/Frances_Little
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5960#Little-Sister-Snow
 gutenberg_issued: '2004-08-16'
 gutenberg_type: Text
 identifiers:
